@@ -2,6 +2,10 @@
 
 Never stare at a blank tweet composer again! TweetCraft AI is a powerful, AI-driven application designed to help you craft engaging and viral-worthy tweets effortlessly. Simply provide a topic, and our intelligent multi-agent system will generate, critique, and refine a tweet for you.
 
+## 🚀 Try the Live App!
+
+### [➡️ Click Here to Launch TweetCraft AI ⬅️](https://tweetcraftai.streamlit.app)
+
 ## ✨ Key Features
 
 -   **📝 Instant Tweet Generation:** Get high-quality tweets from just a simple topic or idea.
