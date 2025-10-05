@@ -26,4 +26,5 @@ This cycle repeats to ensure the final output is polished, catchy, and ready to 
 
 ## 🖼️ TweetCraft GUI
 ![TweetCraft GUI](image_1.png)
-![TweetCraft GUI](image_2.png)
+![TweetCraft GUI](https://github.com/ShreyankP18/TweetCraft-AI/blob/bc050dbdbe596c967132400cdcbc84fde4206cac/image_2.png)
+
