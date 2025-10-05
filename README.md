@@ -23,3 +23,7 @@ TweetCraft AI isn't just a simple text generator. It employs a graph-based agent
 3.  **Optimizer Agent:** Rewrites the tweet based on the critic's feedback to make it better.
 
 This cycle repeats to ensure the final output is polished, catchy, and ready to be posted!
+
+## 🖼️ TweetCraft GUI
+![TweetCraft GUI](image_1.png)
+![TweetCraft GUI](image_2.png)
