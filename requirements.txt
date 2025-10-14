@@ -5,3 +5,4 @@ langchain-huggingface
 langgraph
 pydantic
 huggingface-hub
+huggingface-hub
